@@ -1,23 +1,20 @@
-# Getting Started with Create React App
+# Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La tematica del proyecto es el clima, se creo una aplicación en la cual se pueda concer el clima de disntinas ciudades. 
+Para realizar el proyecto se uso el siguiente API: https://www.google.com/url?sa=D&q=https://www.metaweather.com/api/&ust=1639951140000000&usg=AOvVaw1WbDVsJEeFAnvj4ea8QZhm&hl=en&source=gmail
 
-## Available Scripts
 
-In the project directory, you can run:
+## Como ejecutar el proyecto
+Este proyecto se puede ejecutar usando el siguiente comando desde la linea de comandos, una vez que se esta en el mismo directorio
+donde se ubica el proyecto.
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#Para ver el funcionamiento de la aplicación en Live seguir la siguiente ruta. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+https://wather-app-738c7.web.app/
 
-### `Ejecutar Proyecto`
 
-Para ejecutar el proyecto de manera local es necesario usar el siguiente comando en la terminal.
+##Las tecnologías que se usaron fueorn las siguientes: 
 
-### `npm run build`
-
-Este proyecto, se creo usando Create-react-app
+TypeScript, React, CSS, Stylecomponents, Axios y Redux.
