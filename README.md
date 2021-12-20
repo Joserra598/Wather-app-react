@@ -10,6 +10,15 @@ donde se ubica el proyecto.
 
 ### `npm start`
 
+#Es neceasario instalar los modulos de node. Para hacer esto es necesesari usar el siguente comando. 
+
+### `npm i`
+
+#En caso de no reconer el modulo de style components también es necesario usar el siguiente comando. 
+Esto para instalar los tipos de style componentes y sea compatible con Typescript. 
+
+### `npm i @types/styled-components`
+
 #Para ver el funcionamiento de la aplicación en Live seguir la siguiente ruta. 
 
 https://wather-app-738c7.web.app/
